@@ -30,7 +30,7 @@ var a = 2;
 var b = 3;
 var c = -1;
 
-console.log("O Delta será:", b^2 - 4 * a * c);
+console.log("O Delta será:", b ^ (2 - 4 * a * c));
 console.log("");
 console.log("---------Atividade 05--------");
 

@@ -4,7 +4,7 @@ var txt2 = "é muito legal!";
 
 var resultado = txt1 + txt2;
 
-console.log(resultado)
+console.log(resultado);
 
-resultado = resultado + " E nós vamos ficar bons nisso"
-console.log(resultado)
+resultado = resultado + " E nós vamos ficar bons nisso";
+console.log(resultado);
